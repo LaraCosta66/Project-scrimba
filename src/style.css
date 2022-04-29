@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;700&display=swap');
+.Nav{
+display: flex;
+width: auto;
+height: 55px;
+padding: 10px;
+justify-content: center;
+align-items: center;
+background: #F55A5A;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+color: #FFFFFF;
+}
+
+
+
+.card--image{
+    
+    width: 130px;;
+    height: 170px;
+
+   
+}
+.Main-card{
+    display: flex;
+    font-family: 'Inter';
+    font-style: normal; 
+    gap: 15px;
+    padding: 20px;
+  
+}
+
+.title{
+    font-weight: 700;
+    font-size: 25px;
+ 
+}
+.Local{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+}
+
+
+.Desc-main{
+    display: flex;
+    padding: 5px;
+    align-items: left;
+    flex-direction: column;
+}
